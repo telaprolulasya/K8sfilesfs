@@ -98,7 +98,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: telaprolulasya/k8sfe201d:v2
+          image: telaprolulasya/k8sfes201d:v2
           ports:
             - containerPort: 8080
           env:
